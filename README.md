@@ -86,3 +86,9 @@ Además, se han agregado comentarios descriptivos en el código para brindar una
 La API AbmApi ha sido desarrollada siguiendo las mejores prácticas en la construcción de servicios, con una clara definición de recursos, versionamiento adecuado, uso de verbos HTTP correctos, implementación de funcionalidades como filtrado y paginación, manejo adecuado de excepciones, uso correcto de los códigos de estado HTTP, autenticación segura, pruebas unitarias, calidad de programación y diseño e implementación clara de la solución.
 
 Además, se ha prestado atención a la documentación y el código claro, auto explicado, para facilitar su comprensión y uso por parte de los desarrolladores.
+
+# Pruebas en postman 
+ A continuación se encuentra una colección de las pruebas realizadas con Postman
+ 
+
+https://api.postman.com/collections/17744238-d88a157d-8005-4971-bb6d-2455f510371f?access_key=PMAT-01H1WH1A9TAT1CXASTQKZX7P66
