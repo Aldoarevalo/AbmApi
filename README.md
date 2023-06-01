@@ -89,6 +89,7 @@ Además, se ha prestado atención a la documentación y el código claro, auto e
 
 # Pruebas en postman 
  A continuación se encuentra una colección de las pruebas realizadas con Postman
- 
+ Para importarlo simplemete debes abrir postman e importar pegando el enlace en la vetana
+ Para poder ejecutar y tener acceso a todos los metodos es importante ejecutar java -jar target/Abm-1.0.0.jar
 
 https://api.postman.com/collections/17744238-d88a157d-8005-4971-bb6d-2455f510371f?access_key=PMAT-01H1WH1A9TAT1CXASTQKZX7P66
