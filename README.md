@@ -1,11 +1,11 @@
 # AbmApi
 ABM de una DB interna sqlite
 
-Documentación de la API AbmApi
+# Documentación de la API AbmApi
 
 La API AbmApi proporciona servicios para la gestión de recursos relacionados con el sistema de ABM (Alta, Baja y Modificación).
 
-Ejecución del proyecto
+# Ejecución del proyecto
 
 Para ejecutar el proyecto, sigue los siguientes pasos:
 
@@ -19,7 +19,7 @@ Para ejecutar el proyecto desde la linea de comandos, utiliza el siguiente coman
 
 java -jar target/Abm-1.0.0.jar Esto iniciará la aplicación y estará disponible en la URL http://localhost:8080/swagger-ui.html.
 
-Ejecución de pruebas unitarias
+# Ejecución de pruebas unitarias
 
 Las pruebas unitarias se pueden ejecutar utilizando la herramienta Spring Boot Tool 4 en Spring Tool Suite. Sigue estos pasos:
 
@@ -31,7 +31,7 @@ Haz clic derecho sobre la clase de prueba que deseas ejecutar y selecciona "Run 
 
 Esto ejecutará la prueba unitaria y mostrará los resultados en la consola.
 
-Mejores prácticas en la construcción de servicios
+# Mejores prácticas en la construcción de servicios
 
 En la construcción de los servicios de la API AbmApi, se han seguido las siguientes mejores prácticas:
 
@@ -67,13 +67,13 @@ Se ha buscado el uso mínimo de dependencias externas para mantener la simplicid
 
 Se han implementado pruebas unitarias para garantizar la calidad y confiabilidad del código.
 
-Test y ejemplos
+# Test y ejemplos
 
 El proyecto AbmApi incluye pruebas unitarias para verificar el correcto funcionamiento de los diferentes componentes de la API. Estas pruebas se encuentran en la carpeta "src/test/java" y se pueden ejecutar siguiendo las instrucciones mencionadas anteriormente.
 
 Además, se recomienda revisar los ejemplos de uso de la API en la carpeta "examples". Estos ejemplos proporcionan casos de uso comunes y muestran cómo interactuar con los diferentes recursos de la API.
 
-Documentación y código claro, auto explicado
+# Documentación y código claro, auto explicado
 
 Se ha puesto especial énfasis en proporcionar una documentación clara y concisa para el proyecto AbmApi. Además, se ha trabajado en mantener un código limpio y autoexplicativo, siguiendo buenas prácticas de programación.
 
@@ -81,7 +81,7 @@ Cada clase, método y variable ha sido nombrado de manera significativa, facilit
 
 Además, se han agregado comentarios descriptivos en el código para brindar una explicación adicional sobre la funcionalidad y el propósito de cada componente.
 
-Conclusiones
+# Conclusiones
 
 La API AbmApi ha sido desarrollada siguiendo las mejores prácticas en la construcción de servicios, con una clara definición de recursos, versionamiento adecuado, uso de verbos HTTP correctos, implementación de funcionalidades como filtrado y paginación, manejo adecuado de excepciones, uso correcto de los códigos de estado HTTP, autenticación segura, pruebas unitarias, calidad de programación y diseño e implementación clara de la solución.
 
