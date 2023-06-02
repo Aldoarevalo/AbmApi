@@ -16,8 +16,8 @@ Descarga o clona el proyecto AbmApi desde este enlace https://github.com/Aldoare
 Abre el proyecto con un editor de codigo por ejemplo Spring Boot tool Suite: Click derecho sobre el proyecto luego Run as Maven install
 
 Para ejecutar el proyecto desde la linea de comandos, utiliza el siguiente comando:
-Primero ingresa a la carpeta raiz del proyecto donde se encuentra el pomp luego ingresa 
-java -jar target/Abm-1.0.0.jar Esto iniciará la aplicación y estará disponible en la URL http://localhost:8080/swagger-ui.html
+Primero ingresa a la carpeta raiz del proyecto donde se encuentra el pomp luego ingresa java -jar target/Abm-1.0.0.jar
+Esto iniciará la aplicación y estará disponible en la URL http://localhost:8080/swagger-ui.html
 Luego de abrir la URL en el navegador seras redirigido a una pagina de inicio de sesión donde debes introducir las claves usuario=admin y contraseña=password
 Al introducir las claves debes darle click al botón de incicio de sesión para ingresar a swagger
 
